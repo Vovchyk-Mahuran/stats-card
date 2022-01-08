@@ -157,6 +157,7 @@ body {
   .bg {
     border-top-left-radius: 5%;
     border-top-right-radius: 5%;
+    border-bottom-right-radius: 0;
   }
   .grid-temp {
     gap: 20px;
